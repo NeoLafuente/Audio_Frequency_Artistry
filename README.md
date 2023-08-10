@@ -5,6 +5,10 @@ Explore the synergy of audio processing and artistry in AudioFrequencyArtistry. 
 
 This repository comprises an audio processing pipeline organized into three distinct stages: **STAGE_1**, **STAGE_2**, and **STAGE_3**. Each stage contains a set of scripts that transform audio signals into frequency domain representations using Discrete Cosine Transform (DCT), apply style transfer algorithms, reconstruct audio, and enhance audio quality through bandpass filtering.
 
+## Before You Begin
+
+Before you start working with the different stages, it's essential to download the necessary input files. Run the `SETUP_INPUTS.ipynb` notebook or `SETUP_INPUTS.py` script to download the required files.
+
 ## STAGE_1 - Audio to Frequency Domain and Reconstruction
 
 The scripts within this stage focus on transforming audio signals into frequency domain representations using DCT. These representations are then utilized to reconstruct the audio signal and apply bandpass filters to enhance its quality.
