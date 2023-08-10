@@ -1,7 +1,7 @@
 # Audio_Frequency_Artistry
 Explore the synergy of audio processing and artistry in AudioFrequencyArtistry. Transform audio into visuals through stages, unlocking new dimensions of creativity. Copyright Melchor Lafuente Duque
 
-# General description
+## General description
 
 This repository comprises an audio processing pipeline organized into three distinct stages: **STAGE_1**, **STAGE_2**, and **STAGE_3**. Each stage contains a set of scripts that transform audio signals into frequency domain representations using Discrete Cosine Transform (DCT), apply style transfer algorithms, reconstruct audio, and enhance audio quality through bandpass filtering.
 
